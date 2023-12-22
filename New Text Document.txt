@@ -1,0 +1,7 @@
+int display()
+{
+System.out.println("Sum = "+c );
+System.out.println("Mul = "+d);
+System.out.println("Divd = "+e);
+System.out.println("Subt = "+f);
+}

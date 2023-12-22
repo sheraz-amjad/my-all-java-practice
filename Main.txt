@@ -1,0 +1,10 @@
+public class Main
+{
+public void static main(String[] args){
+Final myobj = new Final();
+myobj.sum(12,3);
+myobj.sub(12,4);
+myobj.mult(6,2);
+myobj.divide(6,2);
+}
+}

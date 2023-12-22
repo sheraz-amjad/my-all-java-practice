@@ -1,0 +1,6 @@
+<h:form>
+    <h:messages style="color: red;" />
+    <h:inputText value="#{loginBean.username}" required="true" />
+    <h:inputSecret value="#{loginBean.password}" required="true" />
+    <h:commandButton value="Login" action="#{loginBean.login}" />
+</h:form>
